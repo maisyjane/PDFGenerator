@@ -1,0 +1,241 @@
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/bin/Debug/net5.0/appsettings.json
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/bin/Debug/net5.0/PDFGenerator.exe
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/bin/Debug/net5.0/PDFGenerator.deps.json
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/bin/Debug/net5.0/PDFGenerator.runtimeconfig.json
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/bin/Debug/net5.0/PDFGenerator.runtimeconfig.dev.json
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/bin/Debug/net5.0/PDFGenerator.dll
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/bin/Debug/net5.0/ref/PDFGenerator.dll
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/bin/Debug/net5.0/PDFGenerator.pdb
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.csproj.AssemblyReference.cache
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.AssemblyInfoInputs.cache
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.AssemblyInfo.cs
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.csproj.CoreCompileInputs.cache
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/staticwebassets/PDFGenerator.StaticWebAssets.Manifest.cache
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/staticwebassets/PDFGenerator.StaticWebAssets.xml
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/scopedcss/bundle/PDFGenerator.styles.css
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.RazorTargetAssemblyInfo.cache
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.csproj.CopyComplete
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.dll
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/ref/PDFGenerator.dll
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.pdb
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.genruntimeconfig.cache
+C:/Users/jchambers017/source/PDFGenerator/PDFGenerator/bin/Debug/net5.0/DinkToPdf.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/appsettings.Development.json
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/appsettings.json
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/PDFGenerator.StaticWebAssets.xml
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/PDFGenerator
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/PDFGenerator.deps.json
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/PDFGenerator.runtimeconfig.json
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/PDFGenerator.runtimeconfig.dev.json
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/PDFGenerator.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/ref/PDFGenerator.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/PDFGenerator.pdb
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/DinkToPdf.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.csproj.AssemblyReference.cache
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.AssemblyInfoInputs.cache
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.AssemblyInfo.cs
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.csproj.CoreCompileInputs.cache
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.MvcApplicationPartsAssemblyInfo.cs
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.MvcApplicationPartsAssemblyInfo.cache
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/scopedcss/bundle/PDFGenerator.styles.css
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/staticwebassets/PDFGenerator.StaticWebAssets.Manifest.cache
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.RazorTargetAssemblyInfo.cache
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.csproj.CopyComplete
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/ref/PDFGenerator.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.pdb
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/Debug/net5.0/PDFGenerator.genruntimeconfig.cache
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Humanizer.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/appsettings.Development.json
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/appsettings.json
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/PDFGenerator.StaticWebAssets.xml
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/PDFGenerator.deps.json
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/PDFGenerator.runtimeconfig.json
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/PDFGenerator.runtimeconfig.dev.json
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/PDFGenerator.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/ref/PDFGenerator.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/PDFGenerator.pdb
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/DinkToPdf.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Humanizer.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/PDFGenerator.csproj.AssemblyReference.cache
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/PDFGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/PDFGenerator.AssemblyInfoInputs.cache
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/PDFGenerator.AssemblyInfo.cs
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/PDFGenerator.csproj.CoreCompileInputs.cache
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/PDFGenerator.MvcApplicationPartsAssemblyInfo.cs
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/PDFGenerator.MvcApplicationPartsAssemblyInfo.cache
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/scopedcss/bundle/PDFGenerator.styles.css
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/staticwebassets/PDFGenerator.StaticWebAssets.Manifest.cache
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/PDFGenerator.RazorTargetAssemblyInfo.cache
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/PDFGenerator.csproj.CopyComplete
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/PDFGenerator.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/ref/PDFGenerator.dll
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/PDFGenerator.pdb
+/Users/msinclair009/Downloads/PDFGenerator-main/PDFGenerator/obj/Debug/net5.0/PDFGenerator.genruntimeconfig.cache

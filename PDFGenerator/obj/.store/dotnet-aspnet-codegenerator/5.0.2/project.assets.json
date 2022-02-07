@@ -1,0 +1,136 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "dotnet-aspnet-codegenerator/5.0.2": {
+        "type": "package"
+      }
+    },
+    "net6.0/any": {
+      "dotnet-aspnet-codegenerator/5.0.2": {
+        "type": "package",
+        "tools": {
+          "tools/net5.0/any/DotnetToolSettings.xml": {},
+          "tools/net5.0/any/Microsoft.Extensions.FileProviders.Abstractions.dll": {},
+          "tools/net5.0/any/Microsoft.Extensions.FileProviders.Physical.dll": {},
+          "tools/net5.0/any/Microsoft.Extensions.FileSystemGlobbing.dll": {},
+          "tools/net5.0/any/Microsoft.Extensions.Primitives.dll": {},
+          "tools/net5.0/any/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll": {},
+          "tools/net5.0/any/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.pdb": {},
+          "tools/net5.0/any/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.xml": {},
+          "tools/net5.0/any/Newtonsoft.Json.dll": {},
+          "tools/net5.0/any/build/microsoft.visualstudio.web.codegeneration.tools.targets": {},
+          "tools/net5.0/any/buildMultiTargeting/microsoft.visualstudio.web.codegeneration.tools.targets": {},
+          "tools/net5.0/any/dotnet-aspnet-codegenerator.deps.json": {},
+          "tools/net5.0/any/dotnet-aspnet-codegenerator.dll": {},
+          "tools/net5.0/any/dotnet-aspnet-codegenerator.pdb": {},
+          "tools/net5.0/any/dotnet-aspnet-codegenerator.runtimeconfig.json": {},
+          "tools/net5.0/any/dotnet-aspnet-codegenerator.xml": {},
+          "tools/net5.0/any/shims/win-x64/dotnet-aspnet-codegenerator.exe": {},
+          "tools/net5.0/any/shims/win-x86/dotnet-aspnet-codegenerator.exe": {},
+          "tools/net5.0/any/toolassets/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Msbuild.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet-aspnet-codegenerator/5.0.2": {
+      "sha512": "g3nOn93aCxEs+sV6xBjj4CVIPxuAJtRWoomzNMIDUb02TIdowNyv+ULgrmLXmyh1OsiHvn3GCOKuXoh/tg147Q==",
+      "type": "package",
+      "path": "dotnet-aspnet-codegenerator/5.0.2",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "dotnet-aspnet-codegenerator.5.0.2.nupkg.sha512",
+        "dotnet-aspnet-codegenerator.nuspec",
+        "tools/net5.0/any/DotnetToolSettings.xml",
+        "tools/net5.0/any/Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "tools/net5.0/any/Microsoft.Extensions.FileProviders.Physical.dll",
+        "tools/net5.0/any/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "tools/net5.0/any/Microsoft.Extensions.Primitives.dll",
+        "tools/net5.0/any/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll",
+        "tools/net5.0/any/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.pdb",
+        "tools/net5.0/any/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.xml",
+        "tools/net5.0/any/Newtonsoft.Json.dll",
+        "tools/net5.0/any/build/microsoft.visualstudio.web.codegeneration.tools.targets",
+        "tools/net5.0/any/buildMultiTargeting/microsoft.visualstudio.web.codegeneration.tools.targets",
+        "tools/net5.0/any/dotnet-aspnet-codegenerator.deps.json",
+        "tools/net5.0/any/dotnet-aspnet-codegenerator.dll",
+        "tools/net5.0/any/dotnet-aspnet-codegenerator.pdb",
+        "tools/net5.0/any/dotnet-aspnet-codegenerator.runtimeconfig.json",
+        "tools/net5.0/any/dotnet-aspnet-codegenerator.xml",
+        "tools/net5.0/any/shims/win-x64/dotnet-aspnet-codegenerator.exe",
+        "tools/net5.0/any/shims/win-x86/dotnet-aspnet-codegenerator.exe",
+        "tools/net5.0/any/toolassets/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Msbuild.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "dotnet-aspnet-codegenerator >= 5.0.2"
+    ]
+  },
+  "packageFolders": {
+    "/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/.store/.stage/tgyxs1n0.ujp": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/var/folders/pg/1lk9r42d7dd744gkzbpzf8c80000gn/T/jyhep0di.mbq/restore.csproj",
+      "projectName": "restore",
+      "projectPath": "/var/folders/pg/1lk9r42d7dd744gkzbpzf8c80000gn/T/jyhep0di.mbq/restore.csproj",
+      "packagesPath": "/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/.store/.stage/tgyxs1n0.ujp",
+      "outputPath": "/Users/kchatterto001/Documents/PwC Projects/PDFGenerator/PDFGenerator/obj/.store/.stage/tgyxs1n0.ujp/",
+      "projectStyle": "DotnetToolReference",
+      "configFilePaths": [
+        "/Users/kchatterto001/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "dotnet-aspnet-codegenerator": {
+            "target": "Package",
+            "version": "[5.0.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "any": {
+        "#import": []
+      }
+    }
+  }
+}

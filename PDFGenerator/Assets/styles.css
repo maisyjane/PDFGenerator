@@ -1,0 +1,16 @@
+﻿body {
+    font-family: 'Arial', sans-serif;
+    padding-top: 50px;
+}
+
+h1 {
+    font-size: 72px;
+}
+
+p {
+    font-size: 54px;
+}
+
+span {
+    font-weight: bold;
+}
