@@ -1,31 +1,26 @@
-﻿<Properties StartupConfiguration="{45C7F20D-E59A-423F-AAB3-6925B113B8FE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PDFGenerator/Program.cs">
+﻿<Properties StartupConfiguration="{B264C09F-245D-4001-83AB-BC23D515FD63}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PDFGenerator/Dockerfile">
     <Files>
       <File FileName="PDFGenerator/Controllers/PdfCreatorController.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="PDFGenerator/Utility/TemplateGenerator.cs" Line="20" Column="55" IsPinned="True" />
       <File FileName="PDFGenerator/Startup.cs" />
       <File FileName="PDFGenerator/Program.cs" Line="10" Column="1" />
-      <File FileName="PDFGenerator/Properties/launchSettings.json" />
+      <File FileName="PDFGenerator/Properties/launchSettings.json" Line="14" Column="35" />
       <File FileName="PDFGenerator/Models/PDFData.cs" />
       <File FileName="PDFGenerator/wwwroot/js/site.js" />
-      <File FileName="PDFGenerator/Assets/styles.css" />
-      <File FileName="PDFGenerator/wwwroot/index.html" />
-      <File FileName="PDFGenerator/Utility/TemplateGenerator.cs" />
+      <File FileName="PDFGenerator/Assets/styles.css" Line="1" Column="1" />
+      <File FileName="PDFGenerator/wwwroot/index.html" Line="13" Column="14" />
+      <File FileName="PDFGenerator/Dockerfile" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PDFGenerator" expanded="True">
             <Node name="Solution Items" expanded="True" />
+            <Node name="docker-compose" expanded="True" />
             <Node name="PDFGenerator" expanded="True">
-              <Node name="Assets" expanded="True" />
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Utility" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="js" expanded="True" />
-              </Node>
-              <Node name="Program.cs" selected="True" />
+              <Node name="wwwroot" expanded="True" />
+              <Node name="Dockerfile" selected="True" />
             </Node>
           </Node>
         </State>
@@ -38,6 +33,7 @@
   <MonoDevelop.Ide.ItemProperties.PDFGenerator PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

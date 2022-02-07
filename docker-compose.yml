@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  pdfgenerator:
+    image: ${DOCKER_REGISTRY-}pdfgenerator
+    build:
+      context: .
+      dockerfile: PDFGenerator/Dockerfile
